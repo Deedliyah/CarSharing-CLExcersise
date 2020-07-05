@@ -1,0 +1,22 @@
+:root {
+    --c-main: red;
+    --c-service: #28272C;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    min-width: 1080px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
